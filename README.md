@@ -1,2 +1,2 @@
 ### Spatial Prediction Model
-#### A fun project I have been working on for a few months now and will be uploading within the next month. 
+Here is a project I have been working on for the past few months and soon will be uploading. 
